@@ -1,0 +1,4 @@
+2020-04-28T02:33:18+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/USFExtend/wp-content/plugins/woocommerce/templates/content-single-product.php on line 112
+
+2020-04-28T02:40:33+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/USFExtend/wp-content/plugins/woocommerce/templates/content-single-product.php on line 111
+
